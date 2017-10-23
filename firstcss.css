@@ -1,0 +1,50 @@
+
+
+body {
+	background-color: black;
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 300%;
+}
+
+#profpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.header {
+    font-weight: bold;
+}
+
+.container {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.bullets {
+    font-size: 180%
+}
+
+.head_bullets {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+#leftbox {
+    background-color: deepskyblue
+}
+
+#rightbox {
+    background-color: darkslategrey;
+}

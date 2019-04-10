@@ -9,6 +9,7 @@
     justify-content: center;
     margin: 0.5em;
     margin-top: 3.5em;
+    overflow-x: scroll;
 }
 .vertical-container {
     display: flex;

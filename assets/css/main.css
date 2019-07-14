@@ -16,104 +16,80 @@
     flex-direction: column;
     justify-content: center;
 }
-.page-heading {
-    display: flex;
-    justify-content: center;
-    font-size: 3.375rem; 
-    font-weight: 600; 
-    line-height: 1.25;
-}
-.center-image {
-    margin-top: 2em;
-}
 
-/* HOME PAGE */
+/* BIBLIOPHILE */
 #homepage {
-	background-color: #25467A;
+	background-color: #EAEAEA;
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
+}
+.body-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32.5%;
+}
+.body-links {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.link-icon {
+    color: #272727;
+    font-size: 2vw;
+    margin: 0.5em;
+}
+.link-icon:hover {
     color: #FBFCFC;
 }
-.page-description {
+.footer1 {
+    font-weight: 340;
+    font-size: calc(7px + 1vw);
+    position: absolute;
+    bottom: 5vw;
+    width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 1em;
 }
-.home-center-container {
+.footer2 {
+    font-weight: 4000;
+    font-size: calc(7px + 1vw);
+    position: absolute;
+    bottom: 2.5vw;
+    width: 100%;
     display: flex;
-    justify-content: space-between; 
-    align-items: center;
-    width: 65em;
+    justify-content: center;
 }
-.directional-word {
-    font-size: 1.5rem; 
-    font-weight: 600; 
-}
-.page-link {
+#link1 {
     text-decoration: none;
+    color:#89A2F6;
+}
+#link1:hover {
     color: #FBFCFC;
 }
-.page-link:hover {
-    color: #272727;
-}
 
-
-/* BOTH LIFE AND WORK PAGES*/
-.body-paragraph {
-    margin: 3em;
-}
-
-
-/* LIFE PAGE */
-#lifepage {
-	background-color: #00B6CB;
+/* JAZZ */
+#jazzpage {
+	background-color: #89A2F6;
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
+}
+#link2 {
+    text-decoration: none;
+    color:#FCAF6D;
+}
+#link2:hover {
     color: #FBFCFC;
 }
-.life-center-container {
-    display: flex;
-    justify-content: flex-start; 
-    align-items: center;
-    width: 65em;
-}
-.life-link-icon {
-    color: #FBFCFC;
-    font-size: 2em;
-    margin-left: 1em;
-}
-.life-link-icon:hover {
-    color: #272727;
-}
-.life-body-links {
-    display: flex;
-    justify-content: flex-end; 
-    margin: 3em;
-}
 
-
-/* WORK PAGE */
-#workpage {
-	background-color: #648FFF;
+/* USC */
+#uscpage {
+    background-color: #FFAA9D;
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
+}
+#link3 {
+    text-decoration: none;
+    color:#EAEAEA;
+}
+#link3:hover {
     color: #FBFCFC;
 }
-.work-center-container {
-    display: flex;
-    justify-content: flex-end; 
-    align-items: center;
-    width: 65em;
-}
-.work-link-icon {
-    color: #FBFCFC;
-    font-size: 2em;
-    margin-right: 1em;
-}
-.work-link-icon:hover {
-    color: #272727;
-}
-.work-body-links {
-    display: flex;
-    justify-content: flex-start; 
-    margin: 3em;
-}
-
-

@@ -9,7 +9,6 @@
     justify-content: center;
     margin: 0.5em;
     margin-top: 3.5em;
-    // overflow-x: scroll;
 }
 .vertical-container {
     display: flex;
@@ -23,20 +22,23 @@
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
 }
 .body-text {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 32.5%;
+    margin-top: 32.5vh;
+    object-fit: contain;
+    max-width: 80%;
+    max-height: 15vh;
 }
 .body-links {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    margin-top: 10vh;
 }
 .link-icon {
     color: #272727;
-    font-size: 2vw;
+    font-size: calc(1vw + 1vh);
     margin: 0.5em;
 }
 .link-icon:hover {
@@ -46,16 +48,16 @@
     font-weight: 340;
     font-size: calc(7px + 1vw);
     position: absolute;
-    bottom: 5vw;
+    bottom: 5vh;
     width: 100%;
     display: flex;
     justify-content: center;
 }
 .footer2 {
-    font-weight: 4000;
+    font-weight: 400;
     font-size: calc(7px + 1vw);
     position: absolute;
-    bottom: 2.5vw;
+    bottom: 2.5vh;
     width: 100%;
     display: flex;
     justify-content: center;

@@ -4,6 +4,9 @@
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
     src: url(https://github.com/IBM/plex);
 }
+* {
+  box-sizing: border-box;
+}
 .main-container {
     display: flex;
     justify-content: center;
@@ -20,6 +23,7 @@
 #homepage {
 	background-color: #EAEAEA;
     font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
+    width: 99vw;
 }
 .body-text {
     display: flex;
@@ -29,12 +33,18 @@
     object-fit: contain;
     max-width: 80%;
     max-height: 15vh;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;
 }
 .body-links {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10vh;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;
 }
 .link-icon {
     color: #272727;
@@ -48,50 +58,27 @@
     font-weight: 340;
     font-size: calc(7px + 1vw);
     position: absolute;
-    bottom: 5vh;
-    width: 100%;
+    bottom: 5.5vh;
+    width: 99vw;
     display: flex;
     justify-content: center;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;
 }
 .footer2 {
     font-weight: 400;
     font-size: calc(7px + 1vw);
     position: absolute;
     bottom: 2.5vh;
-    width: 100%;
+    width: 99vw;
     display: flex;
     justify-content: center;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;
 }
-#link1 {
+#res_link {
     text-decoration: none;
     color:#89A2F6;
-}
-#link1:hover {
-    color: #FBFCFC;
-}
-
-/* JAZZ */
-#jazzpage {
-	background-color: #89A2F6;
-    font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
-}
-#link2 {
-    text-decoration: none;
-    color:#FCAF6D;
-}
-#link2:hover {
-    color: #FBFCFC;
-}
-
-/* USC */
-#uscpage {
-    background-color: #FFAA9D;
-    font-family: IBM Plex Sans, Helvetica Neue, Arial, sans-serif;
-}
-#link3 {
-    text-decoration: none;
-    color:#EAEAEA;
-}
-#link3:hover {
-    color: #FBFCFC;
 }

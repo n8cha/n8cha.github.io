@@ -1,0 +1,25 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Override SEO titling for "Blog" page only --> 
+  {% if page.title == "Blog" %}
+    <title>{{site.title}}</title>
+    {% seo title=false %}    
+  {% endif %}
+
+  {% include head.html %}
+
+  <body>
+     {% include masthead.html %}
+
+      <main id="main" role="main">
+	      
+        {{ content }}
+      </main>
+
+    {% include footer.html %}
+
+  </body>
+</html>

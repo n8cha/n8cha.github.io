@@ -21,7 +21,7 @@ next to signature lines.
 In the midst of all this misguided multiplicity, however, there stands one pen
 to redeem pen-kind--a writing instrument with dignity, purpose, character. A
 ballpoint beauty with soul, designed with the writer in mind: the Pilot G2.
-![pilot-g2](/assets/images/pilot-g2.jpeg){:class="img-responsive"}
+![pilot-g2](/assets/images/pilot-g2.png){:class="img-responsive"}
 
 To refresh your memory, the Pilot G2 is a gel-based ballpoint pen with a
 transparent body, tight rubber grip, and clicky top. It comes in a variety of

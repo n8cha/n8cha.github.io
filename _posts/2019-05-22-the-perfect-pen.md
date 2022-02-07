@@ -7,8 +7,9 @@ tags: []
 ---
 We all use pens. Chances are, if you're reading this, you've got a pen nearby,
 because you're probably (in some capacity) a writer. But pens aren't only for
-the writers of the world--pens are for students, teachers, mothers, cashiers,
-lawyers, waiters. Pens are for everyone, but not everyone is for pens.
+the writers of the world --- pens are for students, teachers, mothers,
+cashiers, lawyers, waiters. Pens are for everyone, but not everyone is for
+pens.
 
 In the modern world, we have degraded our once-mighty swords of script down to
 the disposable level. We mass-produce our pens, selling them in
@@ -19,7 +20,7 @@ turning them into gilded, weighty status symbols to be emphatically placed down
 next to signature lines.
 
 In the midst of all this misguided multiplicity, however, there stands one pen
-to redeem pen-kind--a writing instrument with dignity, purpose, character. A
+to redeem pen-kind --- a writing instrument with dignity, purpose, character. A
 ballpoint beauty with soul, designed with the writer in mind: the Pilot G2.
 ![pilot-g2](/assets/images/pilot-g2.png){:class="img-responsive"}
 
@@ -27,7 +28,8 @@ To refresh your memory, the Pilot G2 is a gel-based ballpoint pen with a
 transparent body, tight rubber grip, and clicky top. It comes in a variety of
 point sizes to suit the discerning penman: 1.0mm, 0.7mm, 0.5mm, and 0.38mm. I'm
 a personal fan of the 0.38mm, the *ultra-fine*: sharper lines, quicker-drying
-ink, and an extra significant digit to remind me just how *special* this pen is.
+ink, and an extra significant digit to remind me just how *special* this pen
+is.
 
 And boy, is it special. Back in elementary, where clout was measured by the
 contents of your pencil pouch, the G2 was just about the best thing you could
@@ -41,11 +43,12 @@ imported pens (*cough, MUJI, cough*), it's accessible - nearly every store's
 stationery section has got them. For the environmentally conscious user, the
 ink cartridges are replaceable. There are small versions of the pen for travel,
 mechanical pencil versions for erasability, even fashion-printed ones for
-groove. The Pilot G2 is like the plain white tee of pens--for the *everyman*.
+groove. The Pilot G2 is like the plain white tee of pens --- for the
+*everyman*.
 
 For a while, I forgot about the Pilot G2. I appreciated using one whenever I
 could, but I didn't actively seek them out. I bounced from pen to pen without
-care--after all, it is *just a pen*, right? Surely it's not about the vessel
+care --- after all, it is *just a pen*, right? Surely it's not about the vessel
 that delivers the ink so much as the actual content of the writing, whatever
 that may be. I seemed to implicitly believe that for a while, and thus, the
 contents of my pencil pouch were consistently transient, the ink lines on my
@@ -64,6 +67,7 @@ reminds me that writing is sacred.
 
 P.S. *not* sponsored by Pilot
 
---
+---
 
-This article was originally posted on [Medium](https://medium.com/swlh/the-perfect-pen-b6aa4a66827f).
+This article was originally posted on
+[Medium](https://medium.com/swlh/the-perfect-pen-b6aa4a66827f).

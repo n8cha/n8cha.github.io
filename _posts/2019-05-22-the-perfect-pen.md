@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THE PERFECT PEN"
+title: "The Perfect Pen"
 date: 2019-05-20
 summary: We all use pens.
 tags: []

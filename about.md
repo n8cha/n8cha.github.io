@@ -7,11 +7,15 @@ permalink: /about/
 
 Hi, I'm Nathan.
 
-I work at [Robust Intelligence](https://www.robustintelligence.com/),
-trying to design friction out of existence. More professional info is available
-on my **[LinkedIn](https://www.linkedin.com/in/thisisnathanchang/)**.
+I'm a Forward Deployed Engineer at [Robust Intelligence](https://www.robustintelligence.com/).
+More professional info is available on my
+**[LinkedIn](https://www.linkedin.com/in/thisisnathanchang/)**.
 
-This site is still in progress! 
+This site is still in progress --- things might move around.
+
+Here are some cooler blogs to read in the meantime:
+- [Robert Heaton](https://robertheaton.com/)
+- [Tom MacWright](https://macwright.com/)
 
 You can reach me here:
 

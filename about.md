@@ -13,7 +13,7 @@ More professional info is available on my
 
 This site is still in progress --- things might move around.
 
-Here are some cooler blogs to read in the meantime:
+Here are some cool blogs to read in the meantime:
 - [Robert Heaton](https://robertheaton.com/)
 - [Tom MacWright](https://macwright.com/)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Find Love in the City"
-date: 2019-07-04
+date: 2020-07-04
 summary: We shared a mutual distaste for ketchup.
 ---
 

@@ -6,7 +6,7 @@ summary: Ah yes, fried rice.
 tags: []
 ---
 
-*This piece was originally posted on my
+*This piece was originally published on my
 [Medium](https://medium.com/@thisisnathan/an-ode-to-fried-rice-43fdc3eb2f2e).*
 
 ![fried-rice-1](/assets/images/fried-rice-1.jpeg) <sub>(image via

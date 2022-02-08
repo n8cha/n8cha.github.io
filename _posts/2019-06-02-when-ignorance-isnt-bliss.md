@@ -5,7 +5,7 @@ date: 2019-06-02
 summary: We hear the phrase “Ignorance is Bliss” thrown around a lot these days. 
 ---
 
-*This piece was originally posted on my
+*This piece was originally published on my
 [Medium](https://medium.com/@thisisnathan/when-ignorance-isnt-bliss-eade7cd648a1).*
 
 We hear the phrase "Ignorance is Bliss" thrown around a lot these days.

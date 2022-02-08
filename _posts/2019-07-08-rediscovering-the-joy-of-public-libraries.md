@@ -5,7 +5,7 @@ date: 2019-07-08
 summary: It's quite hard to focus these days.
 ---
 
-*This piece was originally posted on my
+*This piece was originally published on my
 [Medium](https://medium.com/swlh/rediscovering-the-joy-of-public-libraries-df554923e3d2).*
 
 ![bookshelf-wall](/assets/images/bookshelf-wall.jpg)

@@ -6,7 +6,7 @@ summary: We all use pens.
 tags: []
 ---
 
-*This piece was originally posted on my
+*This piece was originally published on my
 [Medium](https://medium.com/swlh/the-perfect-pen-b6aa4a66827f).*
 
 We all use pens. Chances are, if you're reading this, you've got a pen nearby,

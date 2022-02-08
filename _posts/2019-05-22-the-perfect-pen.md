@@ -5,6 +5,10 @@ date: 2019-05-20
 summary: We all use pens.
 tags: []
 ---
+
+*This piece was originally posted on my
+[Medium](https://medium.com/swlh/the-perfect-pen-b6aa4a66827f).*
+
 We all use pens. Chances are, if you're reading this, you've got a pen nearby,
 because you're probably (in some capacity) a writer. But pens aren't only for
 the writers of the world --- pens are for students, teachers, mothers,
@@ -66,8 +70,3 @@ My pen's got soul. My pen writes beautifully. And most importantly, my pen
 reminds me that writing is sacred.
 
 P.S. *not* sponsored by Pilot
-
----
-
-This article was originally posted on
-[Medium](https://medium.com/swlh/the-perfect-pen-b6aa4a66827f).

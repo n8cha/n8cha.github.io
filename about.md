@@ -9,7 +9,7 @@ Hi, I'm Nathan.
 
 I'm a Forward Deployed Engineer at [Robust Intelligence](https://www.robustintelligence.com/).
 More professional info is available on my
-**[LinkedIn](https://www.linkedin.com/in/thisisnathanchang/)**.
+[LinkedIn](https://www.linkedin.com/in/thisisnathanchang/).
 
 This site is still in progress --- things might move around.
 

@@ -7,7 +7,9 @@ permalink: /about/
 
 Hi, I'm Nathan.
 
-I'm a Forward Deployed Engineer at [Robust Intelligence](https://www.robustintelligence.com/).
+I drink crappy coffee, ride motorbikes, and write software.
+
+I'm currently a Forward Deployed Engineer at [Robust Intelligence](https://www.robustintelligence.com/).
 More professional info is available on my
 [LinkedIn](https://www.linkedin.com/in/thisisnathanchang/).
 

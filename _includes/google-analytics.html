@@ -1,0 +1,37 @@
+{% comment %}
+    This implementation of Google analytics taken from
+    https://github.com/dmitryrogozhny/dmitryrogozhny.github.io/blob/master/_includes/google-analytics.html.
+
+    For more information, see his blog post here:
+    https://dmitryrogozhny.com/blog/adding-google-analytics-to-jekyll-site
+{% endcomment %}
+{% comment %}
+    Adds Google analytics tracking for the site.
+
+    Checks whether the environment variable is "production" to render the snippet. Otherwise, renders a waring comment.
+
+    The include should be added near the top of the <head> tag and before any other script or CSS tags,
+    and the parameter google_analytics should be specified in the _config.ylm.
+
+    This include uses the async version of the snippet. See https://developers.google.com/analytics/devguides/collection/analyticsjs/ for details.
+{% endcomment %}
+
+<!-- Google Analytics -->
+{% if site.google_analytics %}
+
+    {% if jekyll.environment == "production" %}
+        <script>
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+            ga("create", "{{ site.google_analytics }}", "auto");
+            ga("send", "pageview");
+        </script>
+        <script async src="https://www.google-analytics.com/analytics.js"></script>
+    {% else %}
+        <!-- jekyll.environment variable is "{{ jekyll.environment }}" and not "production", Google Analytics snippet will be skipped. -->
+    {% endif %}
+
+{% else %}
+    <!-- Please specify google_analytics variable in the _config.yml to enable Google Analytics -->
+{% endif %}
+<!-- End Google Analytics -->

@@ -3,6 +3,8 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
+  {% include google-analytics.html %}
+  
   <!-- Override SEO titling for "Blog" page only --> 
   {% if page.title == "Blog" %}
     <title>{{site.title}}</title>

@@ -29,7 +29,7 @@ a heart desperately fighting numbness.
 *"We were all cooked. The thing was not to recognize it."*
 
 Cooked indeed, but we keep going, stubborn and blind. And we hold on to the
-things that are good, like grappa after a meal or making love in a park or
+things that are good, like grappa after dinner or making love in a park or
 teasing our friends (and being teased in return). They won't last forever, but
 neither will we. 
 

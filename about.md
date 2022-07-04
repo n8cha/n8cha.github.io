@@ -15,9 +15,10 @@ More professional info is available on my
 
 This site is still in progress --- things might move around.
 
-Here are some cool blogs to read in the meantime:
+Here are some cool blogs to peruse in the meantime:
 - [Robert Heaton](https://robertheaton.com/)
-- [Tom MacWright](https://macwright.com/)
+- [We Make Money Not Art](https://we-make-money-not-art.com/)
+- [VU JA DE](https://www.vujade.world/)
 
 You can reach me here:
 

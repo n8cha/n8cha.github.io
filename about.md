@@ -7,9 +7,9 @@ permalink: /about/
 
 Hi, I'm Nathan.
 
-I drink crappy coffee, ride motorbikes, and write software.
+I drink crappy coffee, ride motorbikes, and work with software.
 
-I'm currently a Forward Deployed Engineer at [Robust Intelligence](https://www.robustintelligence.com/).
+I'm currently a Solutions Architect at [Robust Intelligence](https://www.robustintelligence.com/).
 More professional info is available on my
 [LinkedIn](https://www.linkedin.com/in/thisisnathanchang/).
 

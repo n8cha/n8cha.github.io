@@ -9,9 +9,7 @@ Hi, I'm Nathan.
 
 I drink crappy coffee, ride motorbikes, and build software.
 
-I'm currently a Product Manager at [Foundation AI](https://fdtn.ai/) researching solutions for AI supply chain security risks.
-
-More professional info is available on my
+I'm currently a Product Manager at [Foundation AI](https://fdtn.ai/). More professional info is available on my
 [LinkedIn](https://www.linkedin.com/in/thisisnathanchang/).
 
 This site is still in progress --- things might move around.

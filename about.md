@@ -7,9 +7,10 @@ permalink: /about/
 
 Hi, I'm Nathan.
 
-I drink crappy coffee, ride motorbikes, and work with software.
+I drink crappy coffee, ride motorbikes, and build software.
 
-I'm currently a Solutions Architect at [Robust Intelligence](https://www.robustintelligence.com/).
+I'm currently a Product Manager at [Foundation AI](https://fdtn.ai/) researching solutions for AI supply chain security risks.
+
 More professional info is available on my
 [LinkedIn](https://www.linkedin.com/in/thisisnathanchang/).
 
@@ -22,4 +23,4 @@ Here are some cool blogs to peruse in the meantime:
 
 You can reach me here:
 
-`nathan98chang at gmail`
+`{my first name} at n8cha dot com`

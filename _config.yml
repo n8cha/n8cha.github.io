@@ -1,8 +1,8 @@
-title: Nathan Chang 
-email: 
+title: Nathan Chang
+email:
 url: "https://n8cha.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: ""
-github_username: n8cha 
+github_username: n8cha
 
 # Build settings
 remote_theme: n8cha/colorieretro
@@ -19,3 +19,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme

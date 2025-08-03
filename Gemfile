@@ -23,3 +23,13 @@ gem 'jekyll-paginate'
 gem 'jekyll-gist'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+
+# jekyll dependencies that used to auto install
+gem 'kramdown-parser-gfm'
+gem 'jekyll-remote-theme'
+
+# These libraries were removed from Ruby starting in 3.4.0
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'webrick'
